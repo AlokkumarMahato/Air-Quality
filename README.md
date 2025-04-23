@@ -3,7 +3,7 @@
 🧾 1. Introduction
 This project analyzes the Air Quality UCI Dataset 📊, featuring hourly air pollution measurements 🌫️ and meteorological data 🌡️ across multiple variables.
 ________________________________________
-🔍 2. Data Exploration
+🔍 2. Data Exploration 
 Initial exploration includes:
 •	Dataset preview 👀
 •	Summary statistics 📉
