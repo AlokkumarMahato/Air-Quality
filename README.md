@@ -11,7 +11,7 @@ Initial exploration includes:
 •	Column uniqueness 🧬
 ________________________________________
 🧼 3. Handling Missing Data
-•	Missing data detected ✅
+•	Missing data detected ✅ 
 •	Dropped or imputed using mean values ➕
 •	Cleaned dataset ready for analysis 🧹
 ________________________________________
